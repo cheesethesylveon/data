@@ -1,0 +1,18 @@
+{
+    "news": [
+        {
+            "title": "Glide Client Release",
+            "Author": "BreadCat",
+            "short": "We are aproaching the release of glide client...",
+            "long": "We are aproaching the release of glide client and with this we need to ensure that most bugs are fixed so if you find any bugs please report them in our discord", 
+            "img": ""
+        },
+        {
+            "title": "The news.",
+            "Author": "BreadCat",
+            "short": "We are testing the new news feature...",
+            "long": "We are testing the new news feature, here we will send announcements you can see straight from the client to stay updated about what we are working on!", 
+            "img": ""
+        }
+    ]
+}
