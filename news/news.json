@@ -1,17 +1,19 @@
 {
     "news": [
         {
-            "title": "Glide Client Release",
+            "title": "Glide Client Release.",
             "Author": "BreadCat",
-            "short": "We are aproaching the release of glide client...",
-            "long": "We are aproaching the release of glide client and with this we need to ensure that most bugs are fixed so if you find any bugs please report them in our discord", 
+            "unixtime": 1734487980,
+            "subtitle": "we have released GlideClient.",
+            "body": "Today we are happy to say we have finaly released GlideClient into public beta, with this we expect there to be bugs however we have tried to ensure that the client is usable. We are looking forward to hearing user reactions to the glide beta and want to thank for using Glide.", 
             "img": ""
         },
         {
-            "title": "The news.",
-            "Author": "BreadCat",
-            "short": "We are testing the new news feature...",
-            "long": "We are testing the new news feature, here we will send announcements you can see straight from the client to stay updated about what we are working on!", 
+            "title": "The new news section.",
+            "Author": "GlideClient",
+            "unixtime": 1734183120,
+            "subtitle": "The news from Glide.",
+            "body": "We are testing the new news feature, here we will send announcements you can see straight from the client to stay updated about what we are working on!", 
             "img": ""
         }
     ]
