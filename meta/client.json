@@ -1,8 +1,7 @@
 {
-    "metadata": [
-        {
-            "discord": "https://discord.gg/42PXqKvwxq",
-            "discontinued": false
-        }
-    ]
+    "updatelink": "https://github.com/GlideClient/client/releases",
+    "latestversionstring": "7.2",
+    "latestversion": 7200,
+    "discord": "https://discord.gg/42PXqKvwxq",
+    "discontinued": false
 }
