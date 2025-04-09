@@ -31,7 +31,8 @@
                 "text.quickswitch.name"
                 "text.godbridgeassist.name"
                 "text.playerpredicator.name"
-                "text.hitdelayfix.name"
+                "text.fovmodifier.name"
+                "text.farcamera.name"
             ]
         }
     ]
