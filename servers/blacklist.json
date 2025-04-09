@@ -23,6 +23,16 @@
             "mods": [ 
                 "text.hitdelayfix.name"
             ]
+        },
+        {
+            "serverip": "3fmc.com",
+            "mods": [ 
+                "text.hitdelayfix.name"
+                "text.quickswitch.name"
+                "text.godbridgeassist.name"
+                "text.playerpredicator.name"
+                "text.hitdelayfix.name"
+            ]
         }
     ]
 }
